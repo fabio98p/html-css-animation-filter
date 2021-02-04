@@ -1,5 +1,13 @@
 /* esercizio 1 */
-
+*{
+  background-color: red;
+}
+.ex-1-square{
+  background-color: red;
+}
+/* .ex-1-square:hover{
+  transition: background 2s, linear ;
+} */
 /* esercizio 1 */
 
 /* esercizio 2 */
